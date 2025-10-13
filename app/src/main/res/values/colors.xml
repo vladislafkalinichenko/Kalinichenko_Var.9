@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="background">#FFFFFF</color>       <!-- белый фон -->
+<color name="text_primary">#000000</color>     <!-- чёрный текст (высокий контраст) -->
+<color name="text_hint">#616161</color>        <!-- тёмно-серый hint (контрастный) -->
+<color name="colorPrimary">#6200EE</color>
+<color name="colorPrimaryVariant">#3700B3</color>
+<color name="colorAccent">#03DAC5</color>
+</resources>
+
+
